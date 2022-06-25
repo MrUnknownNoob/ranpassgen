@@ -6,9 +6,15 @@ print('''
 | |\/| || |\ \      | | | || | | ||   \  | | | || | | ||  _  || | | |
 | |  | || | | | _   | |_| || | | || |\ \ | | | || |_| || / \ || | | |
 |_|  |_||_| |_||_|   \___/ |_| |_||_| |_||_| |_| \___/ |/   \||_| |_|
+
+
+
+
 ****** Tool Name ::This Tool Is Random Password Genarator ******
        Why This tool :: This tool Is Made for Random Password Genarator. You can Use This Password. It is Safe.
-       Contact with Me :
+       Contact with Me : https://github.com/mrwnknown
+       
+    ** Donot try to Copy This. All right Reserved By MR.UNKOWN 
 
 
 ''')
