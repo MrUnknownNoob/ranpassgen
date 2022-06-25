@@ -15,7 +15,7 @@ print('''
 
 print( '''
 01. Random Password Genarator Type Only password Length
-02. Random Password Genarator Type Only some Character
+02. Random Password Genarator Type Only Number
 03. Random Password Genarator Type Only password Length
 ''')
 
